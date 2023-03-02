@@ -1,1 +1,1 @@
-# IBM-Python-project-for-Data-Science
+ Web scrapping for analyzing Historical Stock/Revenue Data and Building a Dashboard in Python. The project was attempted to have a fair understanding of APIs,HTML parent, child and sibling trees,HTML parsers and Libraries in python such as BeautifulSoup to pull data from the web.
